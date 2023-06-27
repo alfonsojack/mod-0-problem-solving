@@ -15,3 +15,9 @@ for (var i = 0; i < names.length; i ++) {
         console.log(names[i]); 
     }
 }
+
+// node challenge1.js prints:
+// Josh
+// Jack
+// John
+// Paul

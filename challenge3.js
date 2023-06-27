@@ -22,3 +22,9 @@ console.log(removeS("Sassafrass"));
 console.log(removeS("Sandals on the sandy beach on Sunday"));
 console.log(removeS("Joey stole some salad from Joshua Wasserman's son"));
 console.log(removeS("Birthday Party"));
+
+// node challenge3.js prints:
+// aafra
+// andal on the andy beach on unday
+// Joey tole ome alad from Johua Waerman' on
+// Birthday Party

@@ -14,3 +14,9 @@ var words = ["mAgNesium", "NeWaRk", "jUne", "JoYFulnESS"];
 for(var i = 0; i < words.length; i++) {
     console.log(words[i].toLowerCase());
 }
+
+// node challenge2.js prints:
+// magnesium
+// newark
+// june
+// joyfulness
