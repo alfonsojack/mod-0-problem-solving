@@ -6,7 +6,7 @@
 
 // First I create a variable with an array of strings, ensuring that some elements are 4 characters long
 // Next I write a for statement that will loop through the array
-// The for statement should contain an if statement that only accepts strings of exactly 4 characters, 
+// The for statement should contain an if statement that only accepts strings of exactly 4 characters, i.e "if (variableName[i].length === 4)"" 
 // the final console.log statement will then have something like "variableName[i]"
 
 var names = ["Josh", "Jason", "Jack", "Thomas", "Jim", "John", "Paul", "Paulie"];
